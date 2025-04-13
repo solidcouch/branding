@@ -1,6 +1,6 @@
-# Branding of SolidCouch
+# Branding
 
-_These assets are to be used solely in connection with SolidCouch, Tired Bike and associated projects listed here._
+_These assets are to be used solely in connection with SolidCouch, Tired Bike and associated projects listed here. All rights reserved._
 
 ## SolidCouch
 
@@ -18,9 +18,9 @@ The eyes and colors can change.
 
 ### Submark - community
 
-#### Diverse skin colors
-
 Chain links with diverse eyes and colors linked together. Emphasize community and diversity.
+
+#### Diverse skin colors
 
 ![Chain - skin tones 1](./assets/tiredbike/tired-bike-chain-skin1.png)
 ![Chain - skin tones 2](./assets/tiredbike/tired-bike-chain-skin2.png)
@@ -33,5 +33,4 @@ Chain links with diverse eyes and colors linked together. Emphasize community an
 
 The eyes and colors can be of variable types.
 
-SVG version will be rendered.
-
+![Mixed logos for Tired Bike](./assets/tiredbike/tired-bike-mix.svg)
