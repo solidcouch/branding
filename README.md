@@ -4,7 +4,7 @@ _These assets are to be used solely in connection with SolidCouch, Tired Bike an
 
 ## SolidCouch
 
-TBD
+<img alt="Logo of SolidCouch" src="./assets/solidcouch/logo.svg" width="200px" />
 
 ## Tired Bike
 
