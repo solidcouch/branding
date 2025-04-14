@@ -16,7 +16,7 @@ Chain link with sleepy and other eyes.
 
 The eyes and colors can vary.
 
-### Submark - community
+### Supplementary logo - community
 
 Chain links with diverse eyes and colors linked together. Emphasize community and diversity.
 
