@@ -10,11 +10,13 @@ _These assets are to be used solely in connection with SolidCouch, Tired Bike an
 
 ### Main logo
 
-Chain link with sleepy and other eyes.
+Chain link with sleepy and other eyes. The eyes and colors can vary.
 
 <img alt="Logo with closed eyes" src="./assets/tiredbike/logo.svg" width="200px" /> <img alt="Logo with open eyes" src="./assets/tiredbike/logo-open.svg" width="200px"/>
 
-The eyes and colors can vary.
+#### New version
+<img alt="Logo with closed eyes" src="./assets/tiredbike/logo-new.svg" width="200px" /> <img alt="Logo with open eyes" src="./assets/tiredbike/logo-new-open.svg" width="200px"/>
+
 
 ### Supplementary logo - community
 
